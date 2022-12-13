@@ -64,3 +64,41 @@ QUESTIONS :
 
 
 Solutions à explorer :
+
+
+
+
+- manque de reactiviter
+- manques tu com
+- equipe isoler
+- pb d'appartenance
+(    
+    -proposer un chat bot ou chat discord 
+    -pour les cadres :Prosposer un Teams priver pour les discutions        importantes
+    -savoir si ils ont un Trello ou Jira 
+)
+
+- pb d'acces site internet
+(proposer une refonte de site)
+
+- pas de base de donnees commune 
+(en creer une ?)
+
+- information difficile a trouver 
+(mettre les information importante en tete de site )
+
+- Equipes 
+(combien d'equipes par sites et combien sont ils ?)
+
+- pas de parcours d'accompagnement 
+(suivre cahier de charges ?)
+
+- 
+| probleme  |solution | coté dev |
+|:------------|:-------------:|-------------:|
+| manques de com  | synchrone  | proposer un chat bot ou chat discord |
+|pb d'acces site internet|  proposer une refonte de site |           |
+|information difficile a trouver |mettre les information importante en tete de site |        |
+|pas de parcours d'accompagnement | suivre cahier de charges ?|     |
+|Equipes|combien d'equipes par sites et combien sont ils ?|   |
+|pas de base de donnees commune |en creer une ?|   |
