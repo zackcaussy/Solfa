@@ -89,7 +89,6 @@ Solutions à explorer :
 - Bouton (Inscription/Utilisateur) > pour le suivi de vos dossiers (interne vs externe)
 
 <<<<<<< HEAD
-<<<<<<< HEAD
 10.
 =======
 
@@ -121,13 +120,11 @@ Solutions à explorer :
 (suivre cahier de charges ?)
 
 - 
-=======
->>>>>>> 1ec92bb (add readme)
 | probleme  |solution | coté dev |
 |:------------|:-------------:|-------------:|
 | manques de com  | synchrone  | proposer un chat bot ou chat discord |
 |pb d'acces site internet|  proposer une refonte de site |      angular     |
-|information difficile a trouver |mettre les information importante en tete de site |        |
+|information difficile a trouver |mettre les information importante en tete de site |     numero d'urgence    |
 |pas de parcours d'accompagnement | suivre cahier de charges ?|   shema cahier de charge  |
 |Equipes|combien d'equipes par sites et combien sont ils ?|   |
 |pas de base de donnees commune |en creer une ?|   |
